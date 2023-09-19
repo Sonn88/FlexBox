@@ -1,0 +1,37 @@
+.child{
+    border: 2px solid black;
+    background-color: aqua;
+    width: 200px;
+}
+.parent{
+    border: 2px solid red;
+    display: flex;}
+.child1 {
+    border: 2px solid black;
+    background-color: plum;
+    width: 200px;
+}
+.parent2 {
+    border: 2px solid cornflowerblue;
+    display: flex;
+    flex-direction: row-reverse;}
+.parent5{
+    border: 2px solid lightcoral;
+    display: flex;
+    flex-direction: column;
+}
+.child2{
+    border: 2px solid black;
+    background-color: darkseagreen;
+    width: 200px;
+}
+.parent10{
+    border: 2px solid lightblue;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.child7{
+    border: 2px solid black;
+    background-color: rebeccapurple;
+    width: 200px;
+}
