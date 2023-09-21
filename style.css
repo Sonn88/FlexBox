@@ -125,3 +125,19 @@ align-items: start;
     background-color: chocolate;
     width: 200px;
 }
+.child55 {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 50px;
+}
+.parent55 {
+    border: 2px solid red;
+    display: flex;
+    height: 200px;
+}
+.two { flex-grow: 2;
+    flex-shrink: 1;
+    flex-basis:1.5 ;}
+.three { flex-shrink: 1}
+.five { align-self:start;}
+.one{ align-self: end}
